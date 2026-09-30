@@ -1,0 +1,1314 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 8 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 3 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 9974
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 42.51969 763.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (SMARTBRIDGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 3 cm
+q
+BT 1 0 0 1 0 15 Tm 177.1211 0 Td 12 TL /F2 9 Tf 0 0 0 rg (SKILL ) Tj .101961 .266667 .878431 rg (WALLET) Tj /F1 9 Tf 0 0 0 rg  T* -5.58499 0 Td /F1 7 Tf (A SmartBridge Product) Tj T* -171.5361 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 755.3701 cm
+Q
+q
+1 0 0 1 48.51969 743.3701 cm
+q
+BT 1 0 0 1 0 -2 Tm 167.0361 0 Td 12 TL /F2 14 Tf 0 0 0 rg (Scalability & Future Plan) Tj T* -167.0361 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 655.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (15 March 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Team ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (SWTID-2026-1156) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (XXXXXX) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1 Mark) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 80 m 481.8898 80 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 80 l S
+n 481.8898 0 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 127.5591 0 m 127.5591 80 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 633.3701 cm
+q
+BT 1 0 0 1 0 1.5 Tm 12 TL /F2 10.5 Tf 0 0 0 rg (Scalability & Future Plan:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 593.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (This document outlines how the current project solution can be scaled to handle larger user bases, increased data loads, or) Tj T* -0.012988 Tw (extended features in the future. It also captures the team's roadmap for enhancing and evolving the project beyond its current) Tj T* 0 Tw (state.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 571.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (Current System Limitations:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 439.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (S.No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Limitation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 100 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Priority to Address) Tj  T* (\(High / Medium / Low\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Application runs on a single server) Tj T* (instance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Slow response or downtime when many) Tj T* (users log in at once) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Database is not optimised for large) Tj T* (data \(no indexing / caching\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Queries become slow as records grow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Basic authentication only, no) Tj T* (multi-factor login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Higher risk of unauthorised account) Tj T* (access) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 128 m 481.8898 128 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 128 l S
+n 481.8898 0 m 481.8898 128 l S
+n 0 96 m 481.8898 96 l S
+n 0 64 m 481.8898 64 l S
+n 0 32 m 481.8898 32 l S
+n 34.01575 0 m 34.01575 128 l S
+n 198.4252 0 m 198.4252 128 l S
+n 374.1732 0 m 374.1732 128 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 417.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (Scalability Plan:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 253.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (S.No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Scalability Aspect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Current State) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Proposed Upgrade / Solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (User Load) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Supports a small group of users) Tj T* (on a single server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Deploy on cloud with load balancer and) Tj T* (auto-scaling to handle thousands of concurrent) Tj T* (users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Data Storage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Single local database with) Tj T* (limited storage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Move to managed cloud database with regular) Tj T* (backups, indexing and replication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Every request hits the database) Tj T* (directly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Add caching \(e.g. Redis\), CDN for static files, and) Tj T* (optimise API calls and queries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Basic username-password login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Add JWT/OAuth, multi-factor authentication,) Tj T* (HTTPS everywhere and data encryption) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 160 m 481.8898 160 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 160 l S
+n 481.8898 0 m 481.8898 160 l S
+n 0 140 m 481.8898 140 l S
+n 0 96 m 481.8898 96 l S
+n 0 64 m 481.8898 64 l S
+n 0 32 m 481.8898 32 l S
+n 34.01575 0 m 34.01575 160 l S
+n 124.7244 0 m 124.7244 160 l S
+n 266.4567 0 m 266.4567 160 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 231.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (Future Roadmap:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.51969 91.37008 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Planned Feature / Enhancement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Target Timeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Expected Impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Cloud deployment, database optimisation) Tj T* (and caching) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1 - 2 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Faster performance and better reliability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Mobile app version and push notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3 - 4 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL -0.066194 Tw (Wider reach and better user engagement) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (AI-based recommendations and analytics) Tj T* (dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5 - 6 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Personalised experience and useful) Tj T* (insights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Multi-language support and third-party) Tj T* (integrations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7 - 9 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Larger user base and more partnerships) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 136 m 510.2362 136 l S
+n 0 0 m 510.2362 0 l S
+n 0 0 m 0 136 l S
+n 510.2362 0 m 510.2362 136 l S
+n 0 116 m 510.2362 116 l S
+n 0 84 m 510.2362 84 l S
+n 0 64 m 510.2362 64 l S
+n 0 32 m 510.2362 32 l S
+n 56.69291 0 m 56.69291 136 l S
+n 243.7795 0 m 243.7795 136 l S
+n 334.4882 0 m 334.4882 136 l S
+Q
+Q
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+>>
+endobj
+9 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+10 0 obj
+<<
+/Length 10018
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 42.51969 763.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+.333333 .333333 .333333 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (SMARTBRIDGE) Tj T* ET
+Q
+Q
+q
+1 0 0 1 261.1181 3 cm
+q
+BT 1 0 0 1 0 15 Tm 177.1211 0 Td 12 TL /F2 9 Tf 0 0 0 rg (SKILL ) Tj .101961 .266667 .878431 rg (WALLET) Tj /F1 9 Tf 0 0 0 rg  T* -5.58499 0 Td /F1 7 Tf (A SmartBridge Product) Tj T* -171.5361 0 Td ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 755.3701 cm
+Q
+q
+1 0 0 1 48.51969 743.3701 cm
+q
+BT 1 0 0 1 0 -2 Tm 167.0361 0 Td 12 TL /F2 14 Tf 0 0 0 rg (Scalability & Future Plan) Tj T* -167.0361 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 655.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Date) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (15 March 2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Team ID) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 44 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (SWTID-2026-1156) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Project Name) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (EduGenie: Google Gemini Powered Learning Assistant) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Maximum Marks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 133.5591 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1 Mark) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 80 m 481.8898 80 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 80 l S
+n 481.8898 0 m 481.8898 80 l S
+n 0 60 m 481.8898 60 l S
+n 0 40 m 481.8898 40 l S
+n 0 20 m 481.8898 20 l S
+n 127.5591 0 m 127.5591 80 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 633.3701 cm
+q
+BT 1 0 0 1 0 1.5 Tm 12 TL /F2 10.5 Tf 0 0 0 rg (Scalability & Future Plan:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 593.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (This document outlines how the current project solution can be scaled to handle larger user bases, increased data loads, or) Tj T* -0.012988 Tw (extended features in the future. It also captures the team's roadmap for enhancing and evolving the project beyond its current) Tj T* 0 Tw (state.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 571.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (Current System Limitations:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 439.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (S.No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Limitation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 100 cm
+q
+BT 1 0 0 1 0 15 Tm 12 TL /F2 9 Tf 0 0 0 rg (Priority to Address) Tj  T* (\(High / Medium / Low\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Application runs on a single server) Tj T* (instance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Slow response or downtime when many) Tj T* (users log in at once) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (High) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Database is not optimised for large) Tj T* (data \(no indexing / caching\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Queries become slow as records grow) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Basic authentication only, no) Tj T* (multi-factor login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 204.4252 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Higher risk of unauthorised account) Tj T* (access) Tj T* ET
+Q
+Q
+q
+1 0 0 1 380.1732 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Medium) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 128 m 481.8898 128 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 128 l S
+n 481.8898 0 m 481.8898 128 l S
+n 0 96 m 481.8898 96 l S
+n 0 64 m 481.8898 64 l S
+n 0 32 m 481.8898 32 l S
+n 34.01575 0 m 34.01575 128 l S
+n 198.4252 0 m 198.4252 128 l S
+n 374.1732 0 m 374.1732 128 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 417.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (Scalability Plan:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 56.69291 253.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (S.No) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Scalability Aspect) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Current State) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Proposed Upgrade / Solution) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 124 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (User Load) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 112 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Supports a small group of users) Tj T* (on a single server) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Deploy on cloud with load balancer and) Tj T* (auto-scaling to handle thousands of concurrent) Tj T* (users) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 80 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Data Storage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Single local database with) Tj T* (limited storage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Move to managed cloud database with regular) Tj T* (backups, indexing and replication) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Performance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Every request hits the database) Tj T* (directly) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Add caching \(e.g. Redis\), CDN for static files, and) Tj T* (optimise API calls and queries) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Security) Tj T* ET
+Q
+Q
+q
+1 0 0 1 130.7244 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Basic username-password login) Tj T* ET
+Q
+Q
+q
+1 0 0 1 272.4567 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Add JWT/OAuth, multi-factor authentication,) Tj T* (HTTPS everywhere and data encryption) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 160 m 481.8898 160 l S
+n 0 0 m 481.8898 0 l S
+n 0 0 m 0 160 l S
+n 481.8898 0 m 481.8898 160 l S
+n 0 140 m 481.8898 140 l S
+n 0 96 m 481.8898 96 l S
+n 0 64 m 481.8898 64 l S
+n 0 32 m 481.8898 32 l S
+n 34.01575 0 m 34.01575 160 l S
+n 124.7244 0 m 124.7244 160 l S
+n 266.4567 0 m 266.4567 160 l S
+Q
+Q
+Q
+q
+1 0 0 1 48.51969 231.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10.5 Tf 12 TL (Future Roadmap:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 42.51969 91.37008 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Phase) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Planned Feature / Enhancement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Target Timeline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 120 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 9 Tf 12 TL (Expected Impact) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 88 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Cloud deployment, database optimisation) Tj T* (and caching) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (1 - 2 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 100 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Faster performance and better reliability) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Mobile app version and push notifications) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (3 - 4 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 68 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL -0.066194 Tw (Wider reach and better user engagement) Tj T* 0 Tw ET
+Q
+Q
+q
+1 0 0 1 6 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (AI-based recommendations and analytics) Tj T* (dashboard) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (5 - 6 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Personalised experience and useful) Tj T* (insights) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Phase 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Multi-language support and third-party) Tj T* (integrations) Tj T* ET
+Q
+Q
+q
+1 0 0 1 249.7795 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (7 - 9 months) Tj T* ET
+Q
+Q
+q
+1 0 0 1 340.4882 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Larger user base and more partnerships) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.8 w
+n 0 136 m 510.2362 136 l S
+n 0 0 m 510.2362 0 l S
+n 0 0 m 0 136 l S
+n 510.2362 0 m 510.2362 136 l S
+n 0 116 m 510.2362 116 l S
+n 0 84 m 510.2362 84 l S
+n 0 64 m 510.2362 64 l S
+n 0 32 m 510.2362 32 l S
+n 56.69291 0 m 56.69291 136 l S
+n 243.7795 0 m 243.7795 136 l S
+n 334.4882 0 m 334.4882 136 l S
+Q
+Q
+Q
+ 
+
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000139 00000 n 
+0000000339 00000 n 
+0000010365 00000 n 
+0000010406 00000 n 
+0000010513 00000 n 
+0000010625 00000 n 
+0000010646 00000 n 
+0000010685 00000 n 
+trailer
+<<
+/Size 11
+/Root 1 0 R
+/Info 9 0 R
+>>
+startxref
+20757
+%%EOF
